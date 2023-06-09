@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Christian Gonzalez
+# ¡Hola! 👋 Soy Christian Gonzalez ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
 ¡Hola! Soy Christian Gonzalez, un apasionado desarrollador web front-end con aspiraciones de convertirme en un desarrollador full-stack en el futuro. Como autodidacta, estoy emocionado de continuar aprendiendo y ansioso por conseguir mi primer trabajo en el campo.
 
