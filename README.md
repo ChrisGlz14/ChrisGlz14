@@ -47,14 +47,14 @@ Estos proyectos personales son la mejor forma de mantener mis conocimientos fres
 
 
 ## Contacto
-[![Facebook](https://img.shields.io/badge/Facebook-123660?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/christiannnnnn1999/)
+-[![Facebook](https://img.shields.io/badge/Facebook-123660?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/christiannnnnn1999/)
 
-[![Linkdln](https://img.shields.io/badge/linkedin-78CFFD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-isaac-gonzalez-developer-web-fullstack/)
+-[![Linkdln](https://img.shields.io/badge/linkedin-78CFFD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-isaac-gonzalez-developer-web-fullstack/)
+
+-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]
+(https://twitter.com/ChristianG099)
 
 
-
-- LinkedIn: [Mi perfil de Linkdln](https://www.linkedin.com/in/christian-isaac-gonzalez-developer-web-fullstack/)
-- Twitter:[Mi perfil de Twitter](https://twitter.com/ChristianG099)
 - Instagram: [Mi perfil de Instagram](https://www.instagram.com/christian.gonzalez_14/)
 - Portfolio: Proximamente Publico Link!
 
