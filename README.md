@@ -12,7 +12,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hola!, Yo soy
-                <b><a target="_blank" href="https://alsiam.com">Christian Gonzalez</a></b>
+                <b>Christian Gonzalez</b>
         </samp>
 </h3>
 
