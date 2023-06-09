@@ -47,8 +47,8 @@ Estos proyectos personales son la mejor forma de mantener mis conocimientos fres
 
 
 ## Contacto
+[![Facebook](https://img.shields.io/badge/Facebook-123660?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/christiannnnnn1999/)
 
-Proporciona información de contacto para que los visitantes de tu perfil puedan comunicarse contigo. Puedes incluir tus perfiles en redes sociales, dirección de correo electrónico o cualquier otra forma de contacto que desees compartir.
 
 - LinkedIn: [Mi perfil de Linkdln](https://www.linkedin.com/in/christian-isaac-gonzalez-developer-web-fullstack/)
 - Twitter:[Mi perfil de Twitter](https://twitter.com/ChristianG099)
