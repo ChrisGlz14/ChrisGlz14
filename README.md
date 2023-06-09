@@ -43,6 +43,7 @@ Estos proyectos personales son la mejor forma de mantener mis conocimientos fres
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/Github-463457?style=for-the-badge&logo=github&logoColor=white)
 
 
 ## Contacto
@@ -50,7 +51,7 @@ Estos proyectos personales son la mejor forma de mantener mis conocimientos fres
 Proporciona información de contacto para que los visitantes de tu perfil puedan comunicarse contigo. Puedes incluir tus perfiles en redes sociales, dirección de correo electrónico o cualquier otra forma de contacto que desees compartir.
 
 - LinkedIn: [Mi perfil de Linkdln](https://www.linkedin.com/in/christian-isaac-gonzalez-developer-web-fullstack/)
-- ![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FChristianG099)
+- Twitter:[Mi perfil de Twitter](https://twitter.com/ChristianG099)
 - Instagram: [Mi perfil de Instagram](https://www.instagram.com/christian.gonzalez_14/)
 - Portfolio: Proximamente Publico Link!
 
@@ -61,5 +62,3 @@ Gracias por tu tiempo!! sé que el mundo de la programacion, el código y la tec
 ¡Un Saludo!
 
 Atte: **Christian Gonzalez** :)
-
-https://camo.githubusercontent.com/4ee702406de5379912f8132825ada8cee6d4ae4b2bb879662a8cbc51eda669f0/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d676f6e7a61636170266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174
