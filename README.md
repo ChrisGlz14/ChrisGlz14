@@ -9,6 +9,9 @@
   <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Programador%20Autodidacta;&center=true&width=380&height=45"></a>
 </p>
 
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+
+
 
 ¡Hola! Soy Christian Gonzalez, un apasionado desarrollador web front-end con aspiraciones de convertirme en un desarrollador full-stack en el futuro. Como autodidacta, estoy emocionado de continuar aprendiendo y ansioso por conseguir mi primer trabajo en el campo.
 
