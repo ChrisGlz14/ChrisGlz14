@@ -1,4 +1,11 @@
-# ¡Hola! 👋 Soy Christian Gonzalez 
+# 
+
+<h2 align="center">
+  ¡Hola! 👋 Soy Christian Gonzalez 
+  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif]" width="28">
+  <img src="" width="28">
+</h2>
+
 
 ¡Hola! Soy Christian Gonzalez, un apasionado desarrollador web front-end con aspiraciones de convertirme en un desarrollador full-stack en el futuro. Como autodidacta, estoy emocionado de continuar aprendiendo y ansioso por conseguir mi primer trabajo en el campo.
 
