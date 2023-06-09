@@ -1,4 +1,5 @@
 # ¡Hola! 👋 Soy Christian Gonzalez
+![christian](https://github.com/ChrisGlz14/ChrisGlz14/assets/124578802/3c7d9619-b911-4b90-abac-2761eb6c72e6)
 
 ¡Hola! Soy Christian Gonzalez, un apasionado desarrollador web front-end con aspiraciones de convertirme en un desarrollador full-stack en el futuro. Como autodidacta, estoy emocionado de continuar aprendiendo y ansioso por conseguir mi primer trabajo en el campo.
 
