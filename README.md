@@ -17,7 +17,7 @@ En primer lugar, estoy desarrollando una landing page para una empresa de coachi
 
 --Por otro lado, junto con un amigo, estoy trabajando en el desarrollo de una página web utilizando Bootstrap para una empresa dedicada a la construcción de piscinas(Instagram: @ancora.proyectos). Nos entusiasma crear un sitio web atractivo que refleje la calidad de la empresa, y poder brindar una visión clara de sus servicios y proyectos. Proximamente Link Pagina:
 
---Además de estos proyectos, como miembro del equipo de Alas Empresa Junior, también estamos encargados del mantenimiento, actualización y, en un futuro cercano, la remodelación de nuestro propio sitio web corporativo. Esta experiencia nos brinda la oportunidad de aprender y trabajar en equipo utilizando metodologías ágiles, manteniendo una comunicación fluida con los demás grupos de la empresa. Link Pagina: https://www.alasempresajunior.com.ar/
+--Además de estos proyectos, como miembro del equipo de Alas Empresa Junior, también estamos encargados del mantenimiento, actualización y, en un futuro cercano, la remodelación de nuestro propio sitio web corporativo. Esta experiencia nos brinda la oportunidad de aprender y trabajar en equipo utilizando metodologías ágiles, manteniendo una comunicación fluida con los demás grupos de la empresa. Link Pagina: [Alas Empresa Jr](https://www.alasempresajunior.com.ar/)
 
 
 --También dedico tiempo a pequeños proyectos personales que desarrollo día tras día, podran verlo en la cantidad de repositorios que tengo realizados jaja.
