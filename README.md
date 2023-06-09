@@ -49,6 +49,9 @@ Estos proyectos personales son la mejor forma de mantener mis conocimientos fres
 ## Contacto
 [![Facebook](https://img.shields.io/badge/Facebook-123660?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/christiannnnnn1999/)
 
+[![Linkdln](https://img.shields.io/badge/linkedin-78CFFD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-isaac-gonzalez-developer-web-fullstack/)
+
+
 
 - LinkedIn: [Mi perfil de Linkdln](https://www.linkedin.com/in/christian-isaac-gonzalez-developer-web-fullstack/)
 - Twitter:[Mi perfil de Twitter](https://twitter.com/ChristianG099)
