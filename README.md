@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Christian Gonzalez ![Badge en Crecimiento](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+# ¡Hola! 👋 Soy Christian Gonzalez 
 
 ¡Hola! Soy Christian Gonzalez, un apasionado desarrollador web front-end con aspiraciones de convertirme en un desarrollador full-stack en el futuro. Como autodidacta, estoy emocionado de continuar aprendiendo y ansioso por conseguir mi primer trabajo en el campo.
 
@@ -29,7 +29,7 @@ Estos proyectos personales son la mejor forma de mantener mis conocimientos fres
 Proporciona información de contacto para que los visitantes de tu perfil puedan comunicarse contigo. Puedes incluir tus perfiles en redes sociales, dirección de correo electrónico o cualquier otra forma de contacto que desees compartir.
 
 - LinkedIn: [Mi perfil de Linkdln](https://www.linkedin.com/in/christian-isaac-gonzalez-developer-web-fullstack/)
-- Twitter: [Mi perfil de Twitter](https://twitter.com/ChristianG099)
+- [Twitter: [Mi perfil de Twitter](https://twitter.com/ChristianG099)](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FChristianG099)
 - Instagram: [Mi perfil de Instagram](https://www.instagram.com/christian.gonzalez_14/)
 - Portfolio: Proximamente Publico Link!
 
