@@ -28,9 +28,10 @@ Estos proyectos personales son la mejor forma de mantener mis conocimientos fres
 
 Proporciona información de contacto para que los visitantes de tu perfil puedan comunicarse contigo. Puedes incluir tus perfiles en redes sociales, dirección de correo electrónico o cualquier otra forma de contacto que desees compartir.
 
-- LinkedIn: [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
-- Twitter: [Tu perfil de Twitter](https://twitter.com/ChristianG099)
-- Instagram: [Tu perfil de Instagram](https://www.instagram.com/christian.gonzalez_14/)
+- LinkedIn: [Mi perfil de Linkdln](https://www.linkedin.com/in/christian-isaac-gonzalez-developer-web-fullstack/)
+- Twitter: [Mi perfil de Twitter](https://twitter.com/ChristianG099)
+- Instagram: [Mi perfil de Instagram](https://www.instagram.com/christian.gonzalez_14/)
+- Portfolio: Proximamente Publico Link!
 
 
 ## ¡Gracias por visitar mi perfil!
