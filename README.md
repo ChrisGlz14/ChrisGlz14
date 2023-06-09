@@ -6,7 +6,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Programador%20Autodidacta;&center=true&width=380&height=45"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Programador%20Autodidacta;&center=true&width=380&height=45"></a>
 </p>
 
 <!-- Intro  -->
@@ -55,7 +55,7 @@ Estos proyectos personales son la mejor forma de mantener mis conocimientos fres
 
 [![Instagram](https://img.shields.io/badge/instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/christian.gonzalez_14/)
 
-- Portfolio: Proximamente Publico Link esta en construccion! 🔨🔨
+ ###Portfolio: Proximamente enlazo el Link 🔨¡esta en construccion!🔨
 
 
 ## ¡Gracias por visitar mi perfil!
