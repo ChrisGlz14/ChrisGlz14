@@ -3,7 +3,7 @@
 <h2 align="center">
   ¡Hola! Soy Christian Gonzalez 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+</h2> 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Programador%20Autodidacta;&center=true&width=380&height=45"></a>
@@ -55,7 +55,9 @@ Estos proyectos personales son la mejor forma de mantener mis conocimientos fres
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ChristianG099)
 
 [![Instagram](https://img.shields.io/badge/instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/christian.gonzalez_14/)
-
+ 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisglz14&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisglz14)](https://github.com/anuraghazra/github-readme-stats)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=chrisglz14)  
 ### Portfolio: Proximamente enlazo el Link 🔨¡esta en construccion!🔨
 
 
