@@ -6,7 +6,7 @@
 </h2> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Programador%20Autodidacta;&center=true&width=380&height=45"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Programador%20FullTime;&center=true&width=380&height=45"></a>
 </p>
 
 <!-- Intro  -->
