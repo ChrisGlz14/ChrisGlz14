@@ -58,7 +58,7 @@ Estos proyectos personales son la mejor forma de mantener mis conocimientos fres
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisglz14&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisglz14)](https://github.com/anuraghazra/github-readme-stats)  
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=chrisglz14)  
-### Portfolio: Proximamente enlazo el Link 🔨¡esta en construccion!🔨
+### Portfolio:(https://portfoliochristiangonzalez.netlify.app/)
 
 
 ## ¡Gracias por visitar mi perfil!
