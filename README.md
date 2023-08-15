@@ -11,28 +11,20 @@
 
 <!-- Intro  -->
 
-¡Hola! Soy Christian Gonzalez, un apasionado desarrollador web front-end con aspiraciones de convertirme en un desarrollador full-stack en el futuro. Como autodidacta, estoy emocionado de continuar aprendiendo y ansioso por conseguir mi primer trabajo en el campo.
+¡Hola! Soy Christian Gonzalez, desarrollador web front-end y full-stack en proceso.
 
-Me dedico a mantenerme actualizado en las últimas tecnologías y tendencias del desarrollo web porque me gusta ofrecer el mejor servicio!
-
-Además de mi enfoque en el desarrollo, estoy dedicando tiempo y esfuerzo para aprender inglés. Mi objetivo es estar completamente preparado a la hora de comunicarme con clientes internacionales.
+Además de mi enfoque en el desarrollo, estoy aprendiendo inglés. Mi objetivo es estar completamente preparado a la hora de comunicarme con clientes internacionales.
 
 Estoy listo para enfrentar nuevos desafíos y estoy abierto a colaborar en proyectos. Siempre estoy buscando aprender de otros desarrolladores y compartir conocimientos para seguir creciendo como profesional.
 
-Si estás interesado en trabajar juntos o simplemente quieres conectarte para conocer mas sobre mi perfil, no dudes en contactarme. ¡Espero con una sonrisa las oportunidades que están por venir!
-
-
 ## Sobre mí 
 --Actualmente, tengo el privilegio de participar en tres proyectos a nivel profesional. 
-En primer lugar, estoy desarrollando una landing page para una empresa de coaching (Instagram: @inside.coaching) utilizando WordPress en Alas Empresa Junior, donde formo parte del equipo de Tic´s. Proximamente Link Pagina:
+En primer lugar, estoy desarrollando una landing page para una empresa de coaching utilizando WordPress, donde formo parte del equipo de Tic´s. Pagina: http://insidecoaching.com.ar/
 
---Por otro lado, junto con un amigo, estoy trabajando en el desarrollo de una página web utilizando Bootstrap para una empresa dedicada a la construcción de piscinas(Instagram: @ancora.proyectos). Nos entusiasma crear un sitio web atractivo que refleje la calidad de la empresa, y poder brindar una visión clara de sus servicios y proyectos. Proximamente Link Pagina:
+--Por otro lado, trabajando el desarrollo de una página web utilizando Bootstrap para una empresa dedicada a la construcción. Link Pagina: https://chrisglz14.github.io/ancora-bootstrap/
 
---Además de estos proyectos, como miembro del equipo de Alas Empresa Junior, también estamos encargados del mantenimiento, actualización y, en un futuro cercano, la remodelación de nuestro propio sitio web corporativo. Esta experiencia nos brinda la oportunidad de aprender y trabajar en equipo utilizando metodologías ágiles, manteniendo una comunicación fluida con los demás grupos de la empresa. Link Pagina: [Alas Empresa Jr](https://www.alasempresajunior.com.ar/)
+--Además de estos proyectos, como miembro del equipo de Alas Empresa Junior, también estamos encargados del mantenimiento y actualización Link Pagina: [Alas Empresa Jr](https://www.alasempresajunior.com.ar/)
 
-
---También dedico tiempo a pequeños proyectos personales que desarrollo día tras día, podran verlo en la cantidad de repositorios que tengo realizados jaja.
-Estos proyectos personales son la mejor forma de mantener mis conocimientos frescos y experimentar con nuevas tecnologías y conceptos. A través de ellos, puedo explorar ideas creativas, probar nuevas herramientas y aprender de los desafíos que surgen durante el desarrollo.
 
 ## Tecnologias y lenguajes que utilizo y estoy aprendiendo
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -58,12 +50,11 @@ Estos proyectos personales son la mejor forma de mantener mis conocimientos fres
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisglz14&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisglz14)](https://github.com/anuraghazra/github-readme-stats)  
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=chrisglz14)  
-### Portfolio:(https://portfoliochristiangonzalez.netlify.app/)
+### Portfolio: https://portfoliochristiangonzalez.netlify.app/
 
 
 ## ¡Gracias por visitar mi perfil!
-Gracias por tu tiempo!! sé que el mundo de la programacion, el código y la tecnologia es un mundo en constante evolución, y estoy emocionado por explorar nuevos lenguajes y superar desafíos. Estoy comprometido con el aprendizaje continuo y la mejora constante de mis habilidades.
-
+Gracias por tu tiempo!
 ¡Un Saludo!
 
 Atte: **Christian Gonzalez** :)
