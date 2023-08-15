@@ -18,10 +18,11 @@ Además de mi enfoque en el desarrollo, estoy aprendiendo inglés. Mi objetivo e
 Estoy listo para enfrentar nuevos desafíos y estoy abierto a colaborar en proyectos. Siempre estoy buscando aprender de otros desarrolladores y compartir conocimientos para seguir creciendo como profesional.
 
 ## Sobre mí 
---Actualmente, tengo el privilegio de participar en tres proyectos a nivel profesional. 
-En primer lugar, estoy desarrollando una landing page para una empresa de coaching utilizando WordPress, donde formo parte del equipo de Tic´s. Pagina: http://insidecoaching.com.ar/
+Actualmente participo tres proyectos a nivel profesional. 
 
---Por otro lado, trabajando el desarrollo de una página web utilizando Bootstrap para una empresa dedicada a la construcción. Link Pagina: https://chrisglz14.github.io/ancora-bootstrap/
+--Estoy desarrollando una landing page para una empresa de coaching utilizando WordPress, donde formo parte del equipo de Tic´s. Pagina: [Inside Coaching](http://insidecoaching.com.ar/) 
+
+--Por otro lado, trabajando el desarrollo de una página web utilizando Bootstrap para una empresa dedicada a la construcción. Link Pagina: [Ancora Contrucciones](https://chrisglz14.github.io/ancora-bootstrap/)
 
 --Además de estos proyectos, como miembro del equipo de Alas Empresa Junior, también estamos encargados del mantenimiento y actualización Link Pagina: [Alas Empresa Jr](https://www.alasempresajunior.com.ar/)
 
@@ -55,6 +56,4 @@ En primer lugar, estoy desarrollando una landing page para una empresa de coachi
 
 ## ¡Gracias por visitar mi perfil!
 Gracias por tu tiempo!
-¡Un Saludo!
-
-Atte: **Christian Gonzalez** :)
+¡Un Saludo! Chris :)
