@@ -48,7 +48,7 @@ terminada: [Inside Coaching](http://insidecoaching.com.ar/)
 ## Contacto
 [![Facebook](https://img.shields.io/badge/Facebook-123660?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/christiannnnnn1999/)
 
-[![Linkdln](https://img.shields.io/badge/linkedin-78CFFD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-isaac-gonzalez-developer-web-fullstack/)
+[![Linkdln](https://img.shields.io/badge/linkedin-78CFFD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrisglz14/)
 
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ChristianG099)
 
