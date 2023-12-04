@@ -20,9 +20,10 @@ Estoy listo para enfrentar nuevos desafíos y estoy abierto a colaborar en proye
 ## Sobre mí 
 Actualmente participo tres proyectos a nivel profesional. 
 
---Estoy desarrollando una landing page para una empresa de coaching utilizando WordPress, donde formo parte del equipo de Tic´s. Pagina: [Inside Coaching](http://insidecoaching.com.ar/) 
+--Estoy desarrollando una landing page para una empresa de coaching utilizando WordPress, donde formo parte del equipo de Tic´s. Pagina 
+terminada: [Inside Coaching](http://insidecoaching.com.ar/) 
 
---Por otro lado, trabajando el desarrollo de una página web utilizando Bootstrap para una empresa dedicada a la construcción. Link Pagina: [Ancora Contrucciones](https://chrisglz14.github.io/ancora-bootstrap/)
+--Por otro lado, trabajando el desarrollo de una página web utilizando Bootstrap para una empresa dedicada a la construcción. Link Pagina: [Ancora Contrucciones](https://ancorasf.netlify.app/)
 
 --Además de estos proyectos, como miembro del equipo de Alas Empresa Junior, también estamos encargados del mantenimiento y actualización Link Pagina: [Alas Empresa Jr](https://www.alasempresajunior.com.ar/)
 
