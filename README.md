@@ -41,6 +41,7 @@ terminada: [Inside Coaching](http://insidecoaching.com.ar/)
 ![Github](https://img.shields.io/badge/Github-463457?style=for-the-badge&logo=github&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Nextjs](https://img.shields.io/badge/Nextjs-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
 
 
