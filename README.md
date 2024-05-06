@@ -1,7 +1,7 @@
 
 
 <h2 align="center">
-  ¡Hola! Soy Christian Gonzalez 
+  ¡Hi! I'm Christian Gonzalez 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2> 
 
@@ -11,24 +11,23 @@
 
 <!-- Intro  -->
 
-¡Hola! Soy Christian Gonzalez, desarrollador web front-end y full-stack en proceso.
+Hello! I'm Christian Gonzalez, a front-end and full-stack web developer in progress.
 
-Además de mi enfoque en el desarrollo, estoy aprendiendo inglés. Mi objetivo es estar completamente preparado a la hora de comunicarme con clientes internacionales.
+In addition to my focus on development, I'm learning English. My goal is to be fully prepared when communicating with international clients.
 
-Estoy listo para enfrentar nuevos desafíos y estoy abierto a colaborar en proyectos. Siempre estoy buscando aprender de otros desarrolladores y compartir conocimientos para seguir creciendo como profesional.
+I'm ready to face new challenges and I'm open to collaborating on projects. I'm always looking to learn from other developers and share knowledge to continue growing as a professional.
 
-## Sobre mí 
-Actualmente participo tres proyectos a nivel profesional. 
+## About Me
+Currently, I'm involved in three projects at a professional level.
 
---Estoy desarrollando una landing page para una empresa de coaching utilizando WordPress, donde formo parte del equipo de Tic´s. Pagina 
-terminada: [Inside Coaching](http://insidecoaching.com.ar/) 
+--I'm developing a landing page for a coaching company using WordPress, where I'm part of the Tic's team. Finished page: [Inside Coaching](http://insidecoaching.com.ar/) 
 
---Por otro lado, trabajando el desarrollo de una página web utilizando Bootstrap para una empresa dedicada a la construcción. Link Pagina: [Ancora Contrucciones](https://ancorasf.netlify.app/)
+--On the other hand, I'm working on the development of a website using Bootstrap for a construction company. Page link: [Ancora Contrucciones](https://ancorasf.netlify.app/)
 
---Además de estos proyectos, como miembro del equipo de Alas Empresa Junior, también estamos encargados del mantenimiento y actualización Link Pagina: [Alas Empresa Jr](https://www.alasempresajunior.com.ar/)
+--In addition to these projects, as a member of the Alas Empresa Junior team, we are also responsible for maintenance and updates. Page link: [Alas Empresa Jr](https://www.alasempresajunior.com.ar/)
 
 
-## Tecnologias y lenguajes que utilizo y estoy aprendiendo
+## Technologies and Languages I Use and I'm Learning
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -50,7 +49,7 @@ terminada: [Inside Coaching](http://insidecoaching.com.ar/)
 
 
 
-## Contacto
+## Contac Me!
 [![Facebook](https://img.shields.io/badge/Facebook-123660?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/christiannnnnn1999/)
 
 [![Linkdln](https://img.shields.io/badge/linkedin-78CFFD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrisglz14/)
@@ -64,6 +63,9 @@ terminada: [Inside Coaching](http://insidecoaching.com.ar/)
 # Portfolio: https://portfolio-chrisglz14.vercel.app/
 
 
-## ¡Gracias por visitar mi perfil!
-Gracias por tu tiempo!
-¡Un Saludo! Chris :)
+## 
+¡Claro! Aquí está la traducción:
+
+Thank you for visiting my profile!
+Thanks for your time!
+Chris :)
