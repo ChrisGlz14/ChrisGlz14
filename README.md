@@ -6,12 +6,12 @@
 </h2> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Programador%20FullTime;&center=true&width=380&height=45"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=FullStack%20Developer;&center=true&width=380&height=45"></a>
 </p>
 
 <!-- Intro  -->
 
-Hello! I'm Christian Gonzalez, a front-end and full-stack web developer in progress.
+Hello! I'm Christian Gonzalez, a front-end and full-stack web developer.
 
 In addition to my focus on development, I'm learning English. My goal is to be fully prepared when communicating with international clients.
 
