@@ -63,9 +63,6 @@ Currently, I'm involved in three projects at a professional level.
 # Portfolio: https://portfolio-chrisglz14.vercel.app/
 
 
-## 
-¡Claro! Aquí está la traducción:
-
-Thank you for visiting my profile!
+## Thank you for visiting my profile!
 Thanks for your time!
 Chris :)
