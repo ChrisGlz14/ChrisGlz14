@@ -22,7 +22,7 @@ Currently, I'm involved in three projects at a professional level.
 
 --I'm developing a landing page for a coaching company using WordPress, where I'm part of the Tic's team. Finished page: [Inside Coaching](http://insidecoaching.com.ar/) 
 
---On the other hand, I'm working on the development of a website using Bootstrap for a construction company. Page link: [Ancora Contrucciones](https://ancorasf.netlify.app/)
+--On the other hand, I'm working on the development of a website nike clon. Page link: [Nike Shop](https://e-commerce-nike-liart.vercel.app/)
 
 --In addition to these projects, as a member of the Alas Empresa Junior team, we are also responsible for maintenance and updates. Page link: [Alas Empresa Jr](https://www.alasempresajunior.com.ar/)
 
