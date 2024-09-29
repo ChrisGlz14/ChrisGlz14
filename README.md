@@ -51,7 +51,7 @@ Currently, I'm involved in three projects at a professional level.
 
 [![Linkdln](https://img.shields.io/badge/linkedin-78CFFD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrisglz14/)
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisglz14&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisglz14)](https://github.com/anuraghazra/github-readme-stats)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisglz14&show_icons=true)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=chrisglz14)  
 # Portfolio: https://portfolio-chrisglz14.vercel.app/
 
