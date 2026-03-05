@@ -15,18 +15,6 @@ Hello! I'm Christian Gonzalez, a front-end and full-stack web developer.
 
 In addition to my focus on development, I'm learning English. My goal is to be fully prepared when communicating with international clients.
 
-I'm ready to face new challenges and I'm open to collaborating on projects. I'm always looking to learn from other developers and share knowledge to continue growing as a professional.
-
-## About Me
-Currently, I'm involved in three projects at a professional level.
-
---I'm developing a landing page for a coaching company using WordPress, where I'm part of the Tic's team. Finished page: [Inside Coaching](http://insidecoaching.com.ar/) 
-
---On the other hand, I'm working on the development of a website nike clon. Page link: [Nike Shop](https://e-commerce-nike-liart.vercel.app/)
-
---In addition to these projects, as a member of the Alas Empresa Junior team, we are also responsible for maintenance and updates. Page link: [Alas Empresa Jr](https://www.alasempresajunior.com.ar/)
-
-
 ## Technologies and Languages I Use and I'm Learning
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
@@ -50,12 +38,8 @@ Currently, I'm involved in three projects at a professional level.
 ## Contac Me!
 
 [![Linkdln](https://img.shields.io/badge/linkedin-78CFFD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrisglz14/)
- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisglz14&show_icons=true)
-![GitHub streak stats](https://streak-stats.demolab.com/?user=chrisglz14)  
-# Portfolio: https://portfolio-chrisglz14.vercel.app/
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=chrisglz14)  
+# [Portfolio Link](https://portfolio-chrisglz14.vercel.app/)
 
 ## Thank you for visiting my profile!
-Thanks for your time!
-Chris :)
